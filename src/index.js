@@ -1,18 +1,13 @@
 /*
  * @Author: LightYear
- * @Date: 2020-08-18 19:57:45
+ * @Date: 2020-08-19 22:45:53
  * @LastEditors: LightYear
- * @LastEditTime: 2020-08-18 20:30:52
- * @Description: entry
+ * @LastEditTime: 2020-08-25 00:47:46
  * @FilePath: \ui\src\index.js
  */
 
-import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App.js'
 
-
-ReactDOM.render(
-    <App />,
-  document.getElementById('root')
-);
+ReactDOM.render(<App />, document.getElementById('root'))

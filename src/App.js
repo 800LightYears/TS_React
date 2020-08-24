@@ -1,18 +1,15 @@
 /*
- * @Author: your name
- * @Date: 2020-08-18 19:57:45
- * @LastEditTime: 2020-08-18 23:03:00
+ * @Author: LightYear
+ * @Date: 2020-08-19 22:49:47
  * @LastEditors: LightYear
- * @Description: In User Settings Edit
+ * @LastEditTime: 2020-08-25 00:47:54
  * @FilePath: \ui\src\App.js
  */
 
-import React from 'react';
+ import React from 'react'
 
-export default () => {
+export default props => {
   return (
-    <div>
-      1
-    </div>
-  );
+    <div>2</div>
+  )
 }
