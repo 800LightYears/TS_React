@@ -1,15 +1,6 @@
-/*
- * @Author: LightYear
- * @Date: 2020-08-19 22:49:47
- * @LastEditors: LightYear
- * @LastEditTime: 2020-08-25 00:47:54
- * @FilePath: \ui\src\App.js
- */
+import a from './c';
 
- import React from 'react'
+const add = (x, y) => x + y;
 
-export default props => {
-  return (
-    <div>2</div>
-  )
-}
+export default add;
+export const b = a;

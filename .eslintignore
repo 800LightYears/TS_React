@@ -1,5 +1,16 @@
-node_modules/
-public/
-webpack.config.js
-.roadhogrc.js
+# dependencies
+node_modules
 
+# production
+dist
+
+# webpack config
+build
+
+# misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# custom
+.vscode
